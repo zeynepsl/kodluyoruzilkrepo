@@ -1,6 +1,6 @@
 ## Installation
 
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın.
 ![clone](kodluyoruzilkrepo/kodluyoruzilkrepo/figures/cloneImage.PNG)
 
 ```
