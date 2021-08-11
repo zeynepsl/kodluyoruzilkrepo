@@ -1,6 +1,7 @@
 ## Installation
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+![clone](kodluyoruzilkrepo/kodluyoruzilkrepo/figures/cloneImage.PNG)
 
 ```
 git clone https://github.com/zeynepsl/kodluyoruzilkrepo.git
