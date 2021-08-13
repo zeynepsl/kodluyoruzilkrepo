@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\degiskenler\bin\Debug\net5.0\degiskenler.exe
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\degiskenler\bin\Debug\net5.0\degiskenler.deps.json
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.json
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.dev.json
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\degiskenler\bin\Debug\net5.0\degiskenler.dll
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\degiskenler\bin\Debug\net5.0\ref\degiskenler.dll
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\degiskenler\bin\Debug\net5.0\degiskenler.pdb
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.csprojAssemblyReference.cache
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfo.cs
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.dll
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\degiskenler\obj\Debug\net5.0\ref\degiskenler.dll
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.pdb
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.genruntimeconfig.cache
