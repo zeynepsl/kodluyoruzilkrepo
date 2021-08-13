@@ -8,8 +8,8 @@ namespace degiskenler
         {
             String degisken = " ";//white space
             //hataya açık noktalardır
-            if(degisken == "")//bu false döner
-            {              
+            if (degisken == "")//bu false döner
+            {
             }
             DateTime now = DateTime.Now;
             DateTime dateTime = now;
@@ -25,7 +25,7 @@ namespace degiskenler
             String soyad = "slmn";
             str1 = ad + " " + soyad;
 
-            bool b1 = 5>1; //true döner
+            bool b1 = 5 > 1; //true döner
 
             String str3 = "1";
             int int4 = 1;
@@ -43,8 +43,9 @@ namespace degiskenler
             String dateTime3 = DateTime.Now.ToString("dd/MM/yyyy");
 
             //SAAT
-           String dateTime4 = DateTime.Now.ToString("hh.mm");
-           Console.WriteLine(dateTime4);
+            String dateTime4 = DateTime.Now.ToString("hh.mm");
+            Console.WriteLine(dateTime4);
+
         }
     }
 }
