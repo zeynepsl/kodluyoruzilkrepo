@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\operatorler\obj\Debug\net5.0\operatorler.csprojAssemblyReference.cache
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\operatorler\obj\Debug\net5.0\operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\operatorler\obj\Debug\net5.0\operatorler.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\operatorler\obj\Debug\net5.0\operatorler.AssemblyInfo.cs
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\operatorler\obj\Debug\net5.0\operatorler.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\operatorler\bin\Debug\net5.0\operatorler.exe
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\operatorler\bin\Debug\net5.0\operatorler.deps.json
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\operatorler\bin\Debug\net5.0\operatorler.runtimeconfig.json
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\operatorler\bin\Debug\net5.0\operatorler.runtimeconfig.dev.json
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\operatorler\bin\Debug\net5.0\operatorler.dll
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\operatorler\bin\Debug\net5.0\ref\operatorler.dll
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\operatorler\bin\Debug\net5.0\operatorler.pdb
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\operatorler\obj\Debug\net5.0\operatorler.dll
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\operatorler\obj\Debug\net5.0\ref\operatorler.dll
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\operatorler\obj\Debug\net5.0\operatorler.pdb
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\operatorler\obj\Debug\net5.0\operatorler.genruntimeconfig.cache
