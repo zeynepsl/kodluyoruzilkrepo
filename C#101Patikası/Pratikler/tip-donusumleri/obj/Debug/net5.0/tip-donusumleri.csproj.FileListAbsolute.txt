@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.exe
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.deps.json
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.runtimeconfig.json
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.runtimeconfig.dev.json
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.dll
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\tip-donusumleri\bin\Debug\net5.0\ref\tip-donusumleri.dll
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.pdb
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.csprojAssemblyReference.cache
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.AssemblyInfo.cs
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.dll
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\tip-donusumleri\obj\Debug\net5.0\ref\tip-donusumleri.dll
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.pdb
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.genruntimeconfig.cache
