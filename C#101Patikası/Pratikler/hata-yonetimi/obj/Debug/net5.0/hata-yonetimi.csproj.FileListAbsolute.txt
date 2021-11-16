@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.csprojAssemblyReference.cache
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.AssemblyInfo.cs
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.exe
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.deps.json
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.runtimeconfig.json
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.runtimeconfig.dev.json
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.dll
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\hata-yonetimi\bin\Debug\net5.0\ref\hata-yonetimi.dll
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\hata-yonetimi\bin\Debug\net5.0\hata-yonetimi.pdb
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.dll
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\hata-yonetimi\obj\Debug\net5.0\ref\hata-yonetimi.dll
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.pdb
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\hata-yonetimi\obj\Debug\net5.0\hata-yonetimi.genruntimeconfig.cache
