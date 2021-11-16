@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\if-else-if\bin\Debug\net5.0\if-else-if.exe
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\if-else-if\bin\Debug\net5.0\if-else-if.deps.json
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\if-else-if\bin\Debug\net5.0\if-else-if.runtimeconfig.json
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\if-else-if\bin\Debug\net5.0\if-else-if.runtimeconfig.dev.json
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\if-else-if\bin\Debug\net5.0\if-else-if.dll
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\if-else-if\bin\Debug\net5.0\ref\if-else-if.dll
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\if-else-if\bin\Debug\net5.0\if-else-if.pdb
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\if-else-if\obj\Debug\net5.0\if-else-if.csprojAssemblyReference.cache
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\if-else-if\obj\Debug\net5.0\if-else-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\if-else-if\obj\Debug\net5.0\if-else-if.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\if-else-if\obj\Debug\net5.0\if-else-if.AssemblyInfo.cs
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\if-else-if\obj\Debug\net5.0\if-else-if.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\if-else-if\obj\Debug\net5.0\if-else-if.dll
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\if-else-if\obj\Debug\net5.0\ref\if-else-if.dll
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\if-else-if\obj\Debug\net5.0\if-else-if.pdb
+C:\Users\HP\Documents\patika.dev\github\C#101Patikası\Pratikler\if-else-if\obj\Debug\net5.0\if-else-if.genruntimeconfig.cache
